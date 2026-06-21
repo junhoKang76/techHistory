@@ -224,6 +224,43 @@ main {
   color: var(--ink);
 }
 
+.post-content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.post-content figure {
+  margin: 30px 0;
+}
+
+.post-content figure img {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+}
+
+.post-content figcaption {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+.post-content details {
+  margin: 24px 0;
+  padding: 16px 18px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.post-content summary {
+  color: var(--ink);
+  cursor: pointer;
+  font-weight: 700;
+}
+
 .post-content blockquote {
   margin: 28px 0;
   padding: 18px 22px;
