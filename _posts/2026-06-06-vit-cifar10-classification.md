@@ -1,9 +1,9 @@
 ---
 title: "ViT로 CIFAR-10 이미지 분류 학습하기"
 description: "Vision Transformer가 이미지를 패치 단위로 처리하는 방식과 CIFAR-10 학습 과정에서 확인한 증강, 스케줄러, 하이퍼파라미터 튜닝 결과를 정리했습니다."
-date: 2026-02-22
+date: 2026-06-06
 category: AI Engineering
-permalink: /2026-02-vit-cifar10-classification/
+permalink: /2026-06-vit-cifar10-classification/
 image: /assets/images/vit-cifar10-classification/vit-architecture-overview.png
 ---
 
