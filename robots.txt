@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mkmkchoi.github.io/posts/sitemap.xml
+Sitemap: https://junhokang76.github.io/techHistory/sitemap.xml
