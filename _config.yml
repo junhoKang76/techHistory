@@ -1,11 +1,11 @@
-title: Tech Notes
-description: IT와 AI 개발 주제를 실무 관점으로 정리하는 GitHub Pages 아카이브
-url: "https://mkmkchoi.github.io"
-baseurl: "/posts"
+title: Tech History
+description: AI/ML, STT, TTS 그리고 VoIP 등 Brity Meeting과 관련된 개발 경험을 기록하는 기술 블로그
+url: "https://junhokang76.github.io"
+baseurl: "/techHistory"
 lang: ko-KR
 timezone: Asia/Seoul
 author:
-  name: MK Choi
+  name: Junho Kang
 
 markdown: kramdown
 permalink: /:year-:month-:title/
