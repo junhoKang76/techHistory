@@ -1,4 +1,4 @@
-# Tech Notes
+# Tech History
 
 AI/ML, STT, TTS 그리고 VoIP 등 Brity Meeting과 관련된 개발 경험을 기록하는 기술 블로그 입니다.
 
