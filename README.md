@@ -1,6 +1,6 @@
 # Tech Notes
 
-GitHub Pages에 IT/AI 관련 글을 저장하고 공유하기 위한 개인 저장소입니다.
+AI/ML, STT, TTS 그리고 VoIP 등 Brity Meeting과 관련된 개발 경험을 기록하는 기술 블로그 입니다.
 
 ## Structure
 
@@ -28,4 +28,4 @@ image: /assets/images/transformer-fine-tuning-hero.png
 
 Post URL:
 
-<https://mkmkchoi.github.io/posts/>
+<https://junhokang76.github.io/techHistory/>
