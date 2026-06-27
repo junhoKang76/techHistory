@@ -344,3 +344,43 @@ main {
     padding: 20px;
   }
 }
+
+/* ── Voice Cloning Post: 다이어그램 ── */
+.diagram-wrap {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 1.5rem 1rem 1rem;
+  margin: 1.75rem 0;
+  overflow: hidden;
+}
+.diagram-caption {
+  text-align: center;
+  font-size: 0.82rem;
+  color: var(--muted);
+  margin-top: 0.6rem;
+}
+
+/* ── Stage 타임라인 ── */
+.stage-flow { margin: 1.5rem 0; }
+.stage-item { display: flex; gap: 1rem; align-items: flex-start; }
+.stage-line { display: flex; flex-direction: column; align-items: center; flex-shrink: 0; }
+.stage-dot {
+  width: 28px; height: 28px; border-radius: 50%;
+  background: var(--ink); color: #fff;
+  font-size: 12px; font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+}
+.stage-connector {
+  width: 2px; background: var(--line);
+  min-height: 20px; flex: 1; margin: 2px 0;
+}
+.stage-content { padding: 0 0 1.5rem; flex: 1; }
+.stage-content h4 {
+  font-size: 0.97rem; font-weight: 700;
+  color: var(--ink); margin: 0.1rem 0 0.3rem;
+}
+.stage-content p {
+  font-size: 0.88rem; color: var(--muted); margin: 0;
+}
